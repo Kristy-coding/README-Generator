@@ -31,7 +31,7 @@ return inquirer
     },
     {
         type: 'input',
-        name: 'decription',
+        name: 'description',
         message: 'Decribe your project:'
       },
     {
@@ -79,11 +79,11 @@ return inquirer
 
 // TODO: Create a function to write README file
 
-function writeToFile(data) {
+function writeToFile(pageMarkDown) {
 
 // WRITE THIS AS A PROMISE!!! 
 
-    fs.writeFile('./README.md', data, function(err) {
+    fs.writeFile('./README.md', pageMarkDown, function(err) {
         if (err) {
           return console.log(err);
         }
