@@ -1,25 +1,26 @@
 
-  # The Best project ever  
+  # The best project ever  
 
   
   ### Description
-  bjklaf djsalf djsklaf djsklaf djskla fdjkslaf djslaf djskla
+  jfkdlsa fjdklsa fjdklsa fjdksa
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+  * [Description](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#description)
+  * [Installation](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#installation)
+  * [Usage](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#usage)
+  * [License](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#license)
+  * [Contributing](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#contributing)
+  * [Tests](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#tests)
+  * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
-  jkdlsa fjdksla fdjksla fjdklsa fjdksla fjdsla
+  fjdksla fjdklsa fjdskla fjdklsa
   
 
   ### Usage
-  jfkdlsafjdksla fjdklsafjdskal jfdklsaf jdklsa
+  jfdklsa fjdksla fjdsklaf djskla
 
  
   ### License
@@ -29,15 +30,15 @@
   
   
   ### Contributing
-  
+   fjdkslaf djslafjdksla fjdslafjdksalfj dksla
   
    
   ### Tests
-  jkdlsaf jklfdsaf jdklfsa f
+  jfdklsa fjdsla fdjsla fjdksla
   
   ### Questions
   
-  Find me on GitHub [HERE](https://github.com/Kristy-coding)
+  Find me on GitHub [HERE](https://github.com/Kristy-coding)<br/>
   If you have any addition questions about the project feel free to reach out via my email: kristyzurmuhlen@gmail.com
   
 
