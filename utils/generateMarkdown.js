@@ -21,12 +21,13 @@ function generateMarkdown(data) {
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
-  * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
-  * Questions
+  * [Description](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#description)
+  * [Installation](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#installation)
+  * [Usage](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#usage)
+  * [License](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#license)
+  * [Contributing](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#contributing)
+  * [Tests](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#tests)
+  * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
   ${data.installation}
@@ -51,7 +52,7 @@ function generateMarkdown(data) {
   
   ### Questions
   
-  Find me on GitHub [HERE](https://github.com/${data.username})
+  Find me on GitHub [HERE](https://github.com/${data.username})<br/>
   If you have any addition questions about the project feel free to reach out via my email: ${data.email}
   
 
