@@ -5,10 +5,10 @@
 
   ### Description
 
+  This project will generate a README file for your project based on user input via command line prompts
   
   
-  
-  ### Table of Contents (Table of Contents in list form with working links to direct to each section)
+  ### Table of Contents 
   * [Description](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#description)
   * [Installation](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#installation)
   * [Usage](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#usage)
