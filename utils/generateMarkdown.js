@@ -9,8 +9,6 @@ function renderLicenseBadge(license) {
   }
 };
 
-
-
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
  function renderLicenseLink(license) {
@@ -19,9 +17,27 @@ function renderLicenseBadge(license) {
   if (license ==='MIT'){
     return 'https://choosealicense.com/licenses/mit/'
    }
-//   if(license === 'GNU AGPLv3'){
-//     return 'https://choosealicense.com/licenses/agpl-3.0/'
-//   }
+  else if (license === 'GNU AGPLv3'){
+      return 'https://choosealicense.com/licenses/agpl-3.0/'
+  }
+  else if (license === 'GNU GPLv3') {
+     return 'https://choosealicense.com/licenses/gpl-3.0/'
+  }
+  else if (license === 'GNU LGPLv3') {
+    return 'https://choosealicense.com/licenses/lgpl-3.0/'
+  }
+   else if (license === 'Mozilla Public 2.0') {
+    return 'https://choosealicense.com/licenses/mpl-2.0/'
+  }
+   else if (license === 'Apache 2.0') {
+    return 'https://choosealicense.com/licenses/apache-2.0/'
+  }
+   else if (license === 'Boost Software 1.0') {
+    return 'https://choosealicense.com/licenses/bsl-1.0/'
+  }
+   else if (license === 'The Unlicense') {
+    return 'https://choosealicense.com/licenses/unlicense/'
+  }
   else {
     return ''
   }

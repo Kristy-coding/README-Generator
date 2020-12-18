@@ -1,11 +1,11 @@
 
   # The Best Project Ever  
 
-  ![license](https://img.shields.io/badge/license-MIT-yellow)
+  ![license](https://img.shields.io/badge/license-GNU GPLv3-yellow)
 
   ### Description
 
-  fjdklsa fdjksla fjdskla jfdskla fjdksla jlf
+  jfkdlsa fdjsla fjdksla fjdksla fjdksla fjdksla
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
@@ -18,27 +18,27 @@
   * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
-  fjdkslaf djskalf djskla fjdksla fjdklsa fjs
+  f jdksla fjdslka fjdklsa fjdkls fjdkls ajflds jafdkl
   
 
   ### Usage
-  djfkslafj dsjkafld sjkafl fjdklsa fjdklsa fjdklsa fj
+  f djskl fdjslka fjdklsa fjdklsa fjda fj
 
    
   ### License 
-  This application is covered under the [MIT license](https://choosealicense.com/licenses/mit/)
+  This application is covered under the [GNU GPLv3 license](https://choosealicense.com/licenses/gpl-3.0/)
   
     
   ### Contributing
-  fjdkslafj dsjlka fjdklsa jfdklsa jfdkls ajfkd
+  f jdskla fjdkls afjdkls ajfkdlsa
   
    
   ### Tests
-  fdjkslajfdkslajf dkslajf dskljafd slkjafd
+   fjdksla fjdksl afjdksla fjd
   
   ### Questions
   
-  Find me on GitHub [HERE](https://github.com/Kristy-Coding)<br/>
+  Find me on GitHub [HERE](https://github.com/kristy-coding)<br/>
   If you have any addition questions about the project feel free to reach out via my email: kristyzurmuhlen@gmail.com
   
 
