@@ -58,7 +58,7 @@ return inquirer
       type: 'list',
       message: 'What license do you want to use for your project?',
       name: 'license',
-      choices: ['email', 'phone', 'Slack', 'smoke signal']
+      choices: ['MIT', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3','Mozilla Public 2.0','Apache 2.0','Boost Software 1.0','The Unlicense','None']
     },
     {
         type: 'input',

@@ -1,9 +1,11 @@
 
   # The best project ever  
 
-  
+  ![license](https://img.shields.io/badge/license-MIT-yellow)
+
   ### Description
-  jfkdlsa fjdklsa fjdklsa fjdksa
+
+  djkslaf jkdlsaf jkfdflsa fjdlksa jfkdlsa fjdksla
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
@@ -16,29 +18,29 @@
   * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
-  fjdksla fjdklsa fjdskla fjdklsa
+  gjkdlsa fdjsklaf jdsal fjdkla fjdksla
   
 
   ### Usage
-  jfdklsa fjdksla fjdsklaf djskla
+  fjdkslaf jdksla fdjklsa fdjksla fjdksla
 
  
   ### License
-  This application is covered under the email license
+  This application is covered under the [MIT license]()
   // Liscense section 
   // user story: when I chose a license for my application from alist of options, THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
   
   
   ### Contributing
-   fjdkslaf djslafjdksla fjdslafjdksalfj dksla
+  jfdklsa fjdksla fjdksla fjdksla
   
    
   ### Tests
-  jfdklsa fjdsla fdjsla fjdksla
+  jdsjaklf jdskla fjdksla
   
   ### Questions
   
-  Find me on GitHub [HERE](https://github.com/Kristy-coding)<br/>
+  Find me on GitHub [HERE](https://github.com/kristy-coding)<br/>
   If you have any addition questions about the project feel free to reach out via my email: kristyzurmuhlen@gmail.com
   
 

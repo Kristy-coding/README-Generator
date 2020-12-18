@@ -1,10 +1,29 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+
+  if(license) { 
+    return '![license](https://img.shields.io/badge/license-'+ license + '-yellow)'
+  } else {
+    return ''
+  }
+};
+
+
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+// function renderLicenseLink(license) {
+
+// //['MIT', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3','Mozilla Public 2.0','Apache 2.0','Boost Software 1.0','The Unlicense']
+//   if (license ==='MIT'){
+//     return 'https://choosealicense.com/licenses/mit/'
+//   }
+//   if(license === 'GNU AGPLv3'){
+//     return 'https://choosealicense.com/licenses/agpl-3.0/'
+//   }
+  
+// }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
@@ -15,8 +34,10 @@ function generateMarkdown(data) {
   return `
   # ${data.title}  
 
-  
+  ${renderLicenseBadge(data.license)}
+
   ### Description
+
   ${data.description}
   
   
@@ -38,7 +59,7 @@ function generateMarkdown(data) {
 
  
   ### License
-  This application is covered under the ${data.license} license
+  This application is covered under the [${data.license} license]()
   // Liscense section 
   // user story: when I chose a license for my application from alist of options, THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
   
