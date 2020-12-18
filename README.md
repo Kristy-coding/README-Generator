@@ -1,11 +1,11 @@
 
   # The best project ever  
 
-  ![license](https://img.shields.io/badge/license-MIT-yellow)
+  ![license](https://img.shields.io/badge/license-GNU AGPLv3-yellow)
 
   ### Description
 
-  djkslaf jkdlsaf jkfdflsa fjdlksa jfkdlsa fjdksla
+  fjdklsa fjdskalf jdksaljffd jsklaf djsalf lorenm djfsa
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
@@ -18,25 +18,23 @@
   * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
-  gjkdlsa fdjsklaf jdsal fjdkla fjdksla
+  fjdkslaf djsla fjdsla fjd
   
 
   ### Usage
-  fjdkslaf jdksla fdjklsa fdjksla fjdksla
+  jfdklsajfdklsajfdkj djksla fjdk
 
- 
-  ### License
-  This application is covered under the [MIT license]()
-  // Liscense section 
-  // user story: when I chose a license for my application from alist of options, THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+   
+  ### License 
+  This application is covered under the [GNU AGPLv3 license]()
   
-  
+    
   ### Contributing
-  jfdklsa fjdksla fjdksla fjdksla
+  fdjkslafjdlsa fjdsalf djklsa
   
    
   ### Tests
-  jdsjaklf jdskla fjdksla
+  jfdklsa fjdksla fjdklsafj
   
   ### Questions
   
