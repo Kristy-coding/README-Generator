@@ -13,28 +13,40 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-// function renderLicenseLink(license) {
+ function renderLicenseLink(license) {
 
 // //['MIT', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3','Mozilla Public 2.0','Apache 2.0','Boost Software 1.0','The Unlicense','None]
-//   if (license ==='MIT'){
-//     return 'https://choosealicense.com/licenses/mit/'
-//   }
+  if (license ==='MIT'){
+    return 'https://choosealicense.com/licenses/mit/'
+   }
 //   if(license === 'GNU AGPLv3'){
 //     return 'https://choosealicense.com/licenses/agpl-3.0/'
 //   }
-  
-// }
+  else {
+    return ''
+  }
+ }
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
+  
+  // license = JSON.stringify(license)
 
   if(license === 'None') {
     return ''
-  } else{
+  }
+  //  else if(license.contains(" ")){
+  //   license === license + '%20'
+  //   return ` 
+  //   ### License 
+  //   This application is covered under the [${license} license]()
+  //   `
+  // } 
+  else{
   return ` 
   ### License 
-  This application is covered under the [${license} license]()
+  This application is covered under the [${license} license](${renderLicenseLink(license)})
   `}
 }
 
