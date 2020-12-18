@@ -5,8 +5,6 @@ function renderLicenseBadge(license) {
   // couldn't use replaceAll because I don't have version 15 or node so tutor helped bew find regular expression using g flag(global) to replace all instances of spaces with %20
   license = license.replace(/ /g,'%20')
 
-  console.log(license);
-
   if(license === 'None' || license === '') { 
     return ''
   } else {

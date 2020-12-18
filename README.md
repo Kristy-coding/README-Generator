@@ -1,11 +1,11 @@
 
-  # fjdklsa  
+  # README Generator  
 
-  ![license](https://img.shields.io/badge/license-Mozilla%20Public%202.0-yellow)
+  ![license](https://img.shields.io/badge/license-MIT-yellow)
 
   ### Description
 
-  fjdklsa
+  
   
   
   ### Table of Contents (Table of Contents in list form with working links to direct to each section)
@@ -18,28 +18,28 @@
   * [Questions](https://github.com/Kristy-coding/README-Generator/blob/main/README.md#questions)
   
   ### Installation
-  fjdksla
+  From the command line cd into your project folder and run ‘npm install inquirer’
   
 
   ### Usage
-  jfkdls
+  Clone the repo, make sure you have node downloaded on your device and that inquirer is installed in your project folder. To invoke the application simply type ‘node index’ into the command line.
 
    
   ### License 
-  This application is covered under the [Mozilla Public 2.0 license](https://choosealicense.com/licenses/mpl-2.0/)
+  This application is covered under the [MIT license](https://choosealicense.com/licenses/mit/)
   
     
   ### Contributing
-  fjdklsa
+  
   
    
   ### Tests
-  fjkdlsa
+  Answer the command line prompts and then look to see if a README file was generated in your IDE
   
   ### Questions
   
-  Find me on GitHub [HERE](https://github.com/fdhjska)<br/>
-  If you have any addition questions about the project feel free to reach out via my email: fjdksl
+  Find me on GitHub [HERE](https://github.com/Kristy-coding)<br/>
+  If you have any addition questions about the project feel free to reach out via my email: kristyzurmuhlen@gmail.com
   
 
   

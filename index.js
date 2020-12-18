@@ -32,7 +32,7 @@ return inquirer
     {
         type: 'input',
         name: 'description',
-        message: 'Decribe your project:'
+        message: 'Describe your project:'
       },
     {
         type: 'input',
@@ -63,7 +63,7 @@ return inquirer
     {
         type: 'input',
         name: 'username',
-        message: 'what is your GitHub username?'
+        message: 'What is your GitHub username?'
       },
     {
         type: 'input',
