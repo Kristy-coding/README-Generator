@@ -2,9 +2,15 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
 
-  if(license === 'None') { 
+  // couldn't use replaceAll because I don't have version 15 or node so tutor helped bew find regular expression using g flag(global) to replace all instances of spaces with %20
+  license = license.replace(/ /g,'%20')
+
+  console.log(license);
+
+  if(license === 'None' || license === '') { 
     return ''
   } else {
+    
     return '![license](https://img.shields.io/badge/license-'+ license + '-yellow)'
   }
 };
@@ -47,18 +53,9 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   
-  // license = JSON.stringify(license)
-
   if(license === 'None') {
     return ''
   }
-  //  else if(license.contains(" ")){
-  //   license === license + '%20'
-  //   return ` 
-  //   ### License 
-  //   This application is covered under the [${license} license]()
-  //   `
-  // } 
   else{
   return ` 
   ### License 

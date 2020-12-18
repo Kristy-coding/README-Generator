@@ -4,13 +4,13 @@ const fs = require('fs');
 
 const inquirer = require('inquirer');
 
+// generatePAgeMarkDown is grabbing generateMarkDown() which is being exported as a file and saving it in the variable generatePageMarkDown
+
 const generatePageMarkDown = require('./utils/generateMarkdown.js') 
 
 // TODO: Create an array of questions for user input
 
-// const questions = [] (not sure what they are asking here??)
-
-    // information to gether...
+    // information to gather...
     // What is the name of your project? (required)
     // Describe your project (required)
     // What are the steps required to install your project? (intallation instructions)
@@ -42,7 +42,7 @@ return inquirer
       {
         type: 'input',
         name: 'usage',
-        message: 'Provide instructions and examples for use:'
+        message: 'What does the user need to know about using your repo?:'
       },
       {
         type: 'input',
@@ -75,13 +75,9 @@ return inquirer
 };
 
 
-
-
 // TODO: Create a function to write README file
 
 function writeToFile(pageMarkDown) {
-
-// WRITE THIS AS A PROMISE!!! 
 
     fs.writeFile('./README.md', pageMarkDown, function(err) {
         if (err) {
@@ -105,10 +101,6 @@ function init() {
         return writeToFile(pageMarkDown)
       })
     
-       // .thenn
-// prompt the user/ ask the questions 
-// then take the data returned from the prompts and use to generate the markdown (call generateMarkdown(data))
-// then write a file with the completed markdown module as the data 
 }
 
 // Function call to initialize app
